@@ -984,5 +984,9 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
+.text{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(68, 186, 162);
+}
 
 /*# sourceMappingURL=style.css.map */
